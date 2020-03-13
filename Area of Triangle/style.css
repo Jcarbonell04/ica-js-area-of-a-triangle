@@ -1,0 +1,37 @@
+body {
+    margin: 25px 230px 50px 230px;
+    background-color: purple;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div {
+    border-radius: 20px;
+    background-color: white;
+    padding: 70px;
+}
+
+h1 {
+    font-family: cursive;
+    color: #808000;
+}
+
+p {
+    letter-spacing: 0.3px
+}
+
+button {
+    font-size: 15px;
+    background-color: #b6bcca;
+    padding: 5px 30px;
+    border: solid #b6bcca;
+    border-radius: 5px;
+}
+
+h2 {
+    color: maroon;
+}
+
+a:hover {
+    color: hotpink;
+}
